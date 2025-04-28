@@ -1,0 +1,10 @@
+
+
+https://github.com/munisekar-py/Devops_Projects
+
+
+# This Repository Contains 2 Questions, Honestly i used chatGPT and understood the concepts of file handellings using sys and Os modules
+## There are other shutil and pathlib whi i have not used to increase the performance
+## On Password program , i understood the concepts of String iteration and validation comparision with multiple parameters .
+
+#Thanks
